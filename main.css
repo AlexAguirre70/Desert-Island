@@ -1,5 +1,5 @@
 body {
-    background-color: antiquewhite;
+    background-color: ghostwhite;
     font-family: sans-serif;
     padding:10px;
 }
@@ -21,10 +21,15 @@ body {
     background-color: white;
     
 }
-h1, h2, h3, ol {
+h1, h2, h3 {
    
    text-align: center;
+   color: #ff6c2c;
 }
 ol {
     list-style: none;
+    text-align: center;
+}
+h1 {
+    background-color: #ff6c2c;
 }
